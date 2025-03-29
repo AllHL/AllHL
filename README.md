@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I plan to post examples of my work with ai networks here.
+
 <!--
 **AllHL/AllHL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
